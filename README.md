@@ -27,6 +27,14 @@ O exercício foi proposto como forma de exercitar o uso de:
 - Uso de `scanf` com `%[^\n]` para inputs com espaços
 - Uso de `locale.h` para acentuação em português
 
+## 🛠️ Execução
+
+Compile com um compilador C (como `gcc`):
+
+```bash
+gcc main.c -o apolice
+./apolice
+
 🤔 Dificuldade enfrentada
 O maior desafio foi compreender e acessar corretamente os campos da union de acordo com o tipo de seguro.
 Algo que parece simples na teoria, mas exige atenção na prática.
