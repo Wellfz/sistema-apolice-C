@@ -26,3 +26,18 @@ O exercício foi proposto como forma de exercitar o uso de:
 - `typedef union DadosApolice`: define os campos específicos de cada tipo
 - Uso de `scanf` com `%[^\n]` para inputs com espaços
 - Uso de `locale.h` para acentuação em português
+
+🤔 Dificuldade enfrentada
+O maior desafio foi compreender e acessar corretamente os campos da union de acordo com o tipo de seguro.
+Algo que parece simples na teoria, mas exige atenção na prática.
+
+Esse projeto me ensinou que não é só sobre escrever código — é sobre estruturar o raciocínio com maior clareza e precisão.
+
+✍️ Autor
+Matheus Gomes
+Estudante de Ciência da Computação
+GitHub: @Wellfz
+
+## 🧩 Tags
+
+`C` `Struct` `Union` `Exercício Acadêmico` `Sistema de Cadastro` `Programação Estruturada`
